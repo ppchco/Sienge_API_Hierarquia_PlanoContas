@@ -39,6 +39,6 @@ Este projeto demonstra como consumir os dados do Plano de Contas de um CRM SaaS 
 
 ## Código Power Query
 
-O arquivo [PlanoContasTransformacao.pq](src/PLANO_CONTAS.pq) contém o script completo comentado.
+O arquivo [PLANO_CONTAS.pq](src/PLANO_CONTAS.pq) contém o script completo comentado.
 
 ---
